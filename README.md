@@ -15,7 +15,7 @@
     
   <img align="center" alt="claudiohpm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="claudiohpm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="claudiohpm-Js" height="30" width="40" src="https://www.clipartmax.com/png/small/470-4707396_javascript-icon-html-css-js-icons.png">
+  <img align="center" alt="claudiohpm-Js" height="30" width="40" src="https://www.clipartmax.com/png/small/390-3903154_computer-icons-logo-brand-javascript-angle-computer-icons-logo-brand-javascript-angle.png">
   <img align="center" alt="claudiohpm-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     
   </div>
